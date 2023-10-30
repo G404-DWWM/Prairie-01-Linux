@@ -57,15 +57,15 @@ Dossier courant : Current Working Directory
 		C'est le dossier dans lequel vous êtes actuellement situé.  
 
 
-Dossier racine /  
-* Chemin absolu vs Chemin relatif  
-** Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.  
-** Chemin relatif : commence à partir de votre dossier courant  
+- Dossier racine /  
+	* Chemin absolu vs Chemin relatif  
+	* Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.  
+	* Chemin relatif : commence à partir de votre dossier courant  
 
 
-Votre dossier home  
-* C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal  
-* C'est le seul dossier qui a un alias spécial " ~ "    
+- Votre dossier home  
+	* C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal  
+	* C'est le seul dossier qui a un alias spécial " ~ "    
 
  
 Permissions de fichiers  
@@ -75,15 +75,15 @@ Propriété de fichiers
 * La préfixe de commande sudo permet souvent d'outrepasser les limites de permissions  
 
 - Utilisateurs
-* Root  
-* Votre compte Utilisateur
-* Autres Utilisateur  
+	* Root  
+	* Votre compte Utilisateur
+	* Autres Utilisateur  
 
 - Terminal et langage Bash  
-* Commandes bash  
-** Comment fonctionne une commande ?  
-* Langage bash  
-** Existe-t-il d'autres langages comme bash ?  
+	* Commandes bash  
+		* Comment fonctionne une commande ?  
+	* Langage bash  
+		* Existe-t-il d'autres langages comme bash ?  
 
 ## Lexique A remplir     
 Observez votre système de fichiers à partir de la racine.  
