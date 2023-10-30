@@ -41,8 +41,11 @@ Hacker : pirate ou bienfaiteur ?
  # Unix - Linux
 
 ## Théorie  
-Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )  
-Se créer un compte openClassRoom (obligatoire): Reprenez le contrôle à l'aide de Linux ! - OpenClassrooms  
+Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )    
+Se créer un compte openClassRoom (obligatoire): Reprenez le contrôle à l'aide de Linux !   
+
+
+- OpenClassrooms    
 Quelques notions théoriques que vous pouvez synthétiser et compléter à partir du cours OpenClassRoom :  
 Distributions Linux  
 Quelle est la différence entre Unix, Linux, et Ubuntu ?  
