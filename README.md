@@ -2,9 +2,9 @@
 ## Atelier Learning By Teaching
 
 Instructions :	
-Vous devez lire les articles et restituer 3 à 5 points que vous jugez importants.
-Timing : Préparer : 30mn
-Restitution : Google Slide ou Google Docs  + Oral (5 minutes)
+Vous devez lire les articles et restituer 3 à 5 points que vous jugez importants.  
+Timing : Préparer : 30mn  
+Restitution : Google Slide ou Google Docs  + Oral (5 minutes)  
 
 Linux vs Windows vs MacOS  
 	https://framablog.org/2008/09/02/differences-entre-linux-et-windows/  
@@ -40,33 +40,33 @@ Hacker : pirate ou bienfaiteur ?
 
  # Unix - Linux
 
-## Théorie
-Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )
-Se créer un compte openClassRoom (obligatoire): Reprenez le contrôle à l'aide de Linux ! - OpenClassrooms
-Quelques notions théoriques que vous pouvez synthétiser et compléter à partir du cours OpenClassRoom :
-Distributions Linux
-Quelle est la différence entre Unix, Linux, et Ubuntu ?
-Unix est le "coeur" commun à toutes les distributions.
-Une distribution, comme par exemple “Linux” et "Ubuntu", est une sorte d'extension d'Unix.
-Système de fichiers
-Dossier courant : Current Working Directory
-C'est le dossier dans lequel vous êtes actuellement situé.
+## Théorie  
+Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )  
+Se créer un compte openClassRoom (obligatoire): Reprenez le contrôle à l'aide de Linux ! - OpenClassrooms  
+Quelques notions théoriques que vous pouvez synthétiser et compléter à partir du cours OpenClassRoom :  
+Distributions Linux  
+Quelle est la différence entre Unix, Linux, et Ubuntu ?  
+Unix est le "coeur" commun à toutes les distributions.  
+Une distribution, comme par exemple “Linux” et "Ubuntu", est une sorte d'extension d'Unix.  
+Système de fichiers  
+Dossier courant : Current Working Directory  
+C'est le dossier dans lequel vous êtes actuellement situé.  
 
 
-Dossier racine /
-Chemin absolu vs Chemin relatif
-Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.
-Chemin relatif : commence à partir de votre dossier courant
+Dossier racine /  
+Chemin absolu vs Chemin relatif  
+Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.  
+Chemin relatif : commence à partir de votre dossier courant  
 
 
-Votre dossier home
-C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal
-C'est le seul dossier qui a un alias spécial " ~ " 
-Permissions de fichiers
-Propriété de fichiers
-	Les fichiers et les dossiers appartiennent tous à des utilisateurs et des groupes.
-Lorsque vous créez un fichier, il vous appartient et vous avez tous les droits dessus. Ce n'est pas toujours le cas des autres fichiers.
-La préfixe de commande sudo permet souvent d'outrepasser les limites de permissions
+Votre dossier home  
+C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal  
+C'est le seul dossier qui a un alias spécial " ~ "    
+Permissions de fichiers  
+Propriété de fichiers  
+	Les fichiers et les dossiers appartiennent tous à des utilisateurs et des groupes.  
+	Lorsque vous créez un fichier, il vous appartient et vous avez tous les droits dessus. Ce n'est pas toujours le cas des autres fichiers.  
+	La préfixe de commande sudo permet souvent d'outrepasser les limites de permissions  
 
 Utilisateurs
 Root
@@ -93,7 +93,7 @@ Dossiers racines : (complétez la partie suivante )
 
  
 # Cheatsheet [à remplir]
-- Fichiers
+#### Fichiers
 * Pour créer un répertoire et son répertoire parent
 * Créer un répertoire
 * Créer un répertoire dans un répertoire
@@ -105,7 +105,7 @@ Dossiers racines : (complétez la partie suivante )
 * Pour ouvrir un programme nano
 * créer un fichier
 * Créer un liens symbolique
-- Dossiers
+#### Dossiers
 * Supprimer un répertoire
 * Copier un dossier
 * Liste tous les fichiers situés dans le dossiers
