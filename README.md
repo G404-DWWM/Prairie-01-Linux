@@ -41,51 +41,54 @@ Hacker : pirate ou bienfaiteur ?
  # Unix - Linux
 
 ## Théorie  
-Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )    
-Se créer un compte openClassRoom (obligatoire): Reprenez le contrôle à l'aide de Linux !   
+**Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )**      
+Se créer un compte openClassRoom (obligatoire): [Reprenez le contrôle à l'aide de Linux ! - OpenClassrooms](https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux?archived-source=43538)     
 
 
-- OpenClassrooms    
-Quelques notions théoriques que vous pouvez synthétiser et compléter à partir du cours OpenClassRoom :  
-Distributions Linux  
-Quelle est la différence entre Unix, Linux, et Ubuntu ?  
-Unix est le "coeur" commun à toutes les distributions.  
-Une distribution, comme par exemple “Linux” et "Ubuntu", est une sorte d'extension d'Unix.  
-Système de fichiers  
+**Quelques notions théoriques que vous pouvez synthétiser et compléter à partir du cours OpenClassRoom :**  
+- Distributions Linux  
+	Quelle est la différence entre Unix, Linux, et Ubuntu ?  
+	* Unix est le "coeur" commun à toutes les distributions.  
+	* Une distribution, comme par exemple “Linux” et "Ubuntu", est une sorte d'extension d'Unix.
+
+
+- Système de fichiers  
 Dossier courant : Current Working Directory  
-C'est le dossier dans lequel vous êtes actuellement situé.  
+		C'est le dossier dans lequel vous êtes actuellement situé.  
 
 
 Dossier racine /  
-Chemin absolu vs Chemin relatif  
-Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.  
-Chemin relatif : commence à partir de votre dossier courant  
+		Chemin absolu vs Chemin relatif  
+			Chemin absolu : commence toujours par / . Un chemin absolu commence depuis la racine du disque dur.  
+			Chemin relatif : commence à partir de votre dossier courant  
 
 
 Votre dossier home  
-C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal  
-C'est le seul dossier qui a un alias spécial " ~ "    
+	C'est le dossier dans lequel vous êtes situé quand vous ouvrez un terminal  
+	C'est le seul dossier qui a un alias spécial " ~ "    
+
+ 
 Permissions de fichiers  
 Propriété de fichiers  
 	Les fichiers et les dossiers appartiennent tous à des utilisateurs et des groupes.  
 	Lorsque vous créez un fichier, il vous appartient et vous avez tous les droits dessus. Ce n'est pas toujours le cas des autres fichiers.  
 	La préfixe de commande sudo permet souvent d'outrepasser les limites de permissions  
 
-Utilisateurs
-Root
-Votre compte Utilisateur 
-Autres Utilisateur
+- Utilisateurs
+	Root
+	Votre compte Utilisateur 
+	Autres Utilisateur
 
-# Terminal et langage Bash  
-Commandes bash  
-Comment fonctionne une commande ?  
-Langage bash  
-Existe-t-il d'autres langages comme bash ?
+- Terminal et langage Bash  
+	Commandes bash  
+		Comment fonctionne une commande ?  
+	Langage bash  
+	Existe-t-il d'autres langages comme bash ?  
 
 ## Lexique A remplir     
 Observez votre système de fichiers à partir de la racine.  
 Pour chaque dossier, par exemple "etc" ou "var", cherchez leur signification sur Google puis  
-Dossiers racines : (complétez la partie suivante )  
+* Dossiers racines : (complétez la partie suivante )  
 	/etc :   
 	/home :  
 	/var :  
