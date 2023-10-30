@@ -3,21 +3,21 @@ Atelier Learning By Teaching
 
 Instructions :	
 Vous devez lire les articles et restituer 3 à 5 points que vous jugez importants.
-Timing :		Préparer : 30mn
-Restitution : 	Google Slide ou Google Docs  + Oral (5 minutes)
+Timing : Préparer : 30mn
+Restitution : Google Slide ou Google Docs  + Oral (5 minutes)
 
-Linux vs Windows vs MacOS
-https://framablog.org/2008/09/02/differences-entre-linux-et-windows/
-https://www.ionos.fr/digitalguide/serveur/know-how/linux-vs-windows/
-https://qastack.fr/ubuntu/11392/what-are-the-differences-between-mac-os-and-linux
-https://fr.wikipedia.org/wiki/MacOS
+Linux vs Windows vs MacOS  
+	https://framablog.org/2008/09/02/differences-entre-linux-et-windows/  
+	https://www.ionos.fr/digitalguide/serveur/know-how/linux-vs-windows/  
+	https://qastack.fr/ubuntu/11392/what-are-the-differences-between-mac-os-and-linux  
+	https://fr.wikipedia.org/wiki/MacOS  
 
-Distributions Linux / Noyau Linux
-https://fr.wikipedia.org/wiki/Distribution_Linux
-https://doc.ubuntu-fr.org/kernel
+Distributions Linux / Noyau Linux  
+	https://fr.wikipedia.org/wiki/Distribution_Linux  
+	https://doc.ubuntu-fr.org/kernel  
  
 Open Source vs Logiciel Libre
-https://www.developpez.com/actu/87401/Logiciel-libre-et-open-source-les-deux-concepts-sont-parfois-utilises-de-maniere-interchangeable-mais-quelle-est-la-difference/
+	https://www.developpez.com/actu/87401/Logiciel-libre-et-open-source-les-deux-concepts-sont-parfois-utilises-de-maniere-interchangeable-mais-quelle-est-la-difference/
 	https://www.gnu.org/philosophy/free-software-for-freedom.fr.html
 
 GNU - Unix - Linux : Quel rapport ?
@@ -25,19 +25,20 @@ GNU - Unix - Linux : Quel rapport ?
 	https://formation-debian.viarezo.fr/linux.html
  
 Linus Torvald 
-https://fr.wikipedia.org/wiki/Linus_Torvalds
-https://www.lemonde.fr/pixels/article/2018/09/22/les-excuses-de-linus-torvalds-l-emblematique-et-caracteriel-fondateur-de-linux_5358713_4408996.html
+	https://fr.wikipedia.org/wiki/Linus_Torvalds
+	https://www.lemonde.fr/pixels/article/2018/09/22/les-excuses-de-linus-torvalds-l-emblematique-et-caracteriel-fondateur-de-linux_5358713_4408996.html
 
 Shell vs Bash
-https://fr.wikipedia.org/wiki/Bourne-Again_shell
-https://perso.univ-st-etienne.fr/me63854h/enseignements/L2_SE_16/memo_bash.pdf
+	https://fr.wikipedia.org/wiki/Bourne-Again_shell
+	https://perso.univ-st-etienne.fr/me63854h/enseignements/L2_SE_16/memo_bash.pdf
+
 Hacker : pirate ou bienfaiteur ?
 	https://www.secu-ordi.com/hacker-pirate/
 	https://usbeketrica.com/article/une-breve-histoire-des-hackers
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Unix - Linux
+ # Unix - Linux
 
 Théorie
 Le cours OpenClassRoom ( Ce cours concerne la partie 2 et 5 )
@@ -71,7 +72,7 @@ Root
 Votre compte Utilisateur 
 Autres Utilisateur
 
-Terminal et langage Bash
+# Terminal et langage Bash
 Commandes bash
 Comment fonctionne une commande ?
 Langage bash
@@ -80,36 +81,38 @@ Lexique A remplir
 Observez votre système de fichiers à partir de la racine.
 Pour chaque dossier, par exemple "etc" ou "var", cherchez leur signification sur Google puis
 Dossiers racines : (complétez la partie suivante )
-/etc : 
-/home :
-/var :
-/bin : 
-/dev : 
-/lib : 
-[à compléter]
-Cheatsheet [à remplir]
+	/etc : 
+	/home :
+	/var :
+	/bin : 
+	/dev : 
+	/lib : 
+	[à compléter]
+
+ 
+# Cheatsheet [à remplir]
 Fichiers
-# Pour créer un répertoire et son répertoire parent
-# Créer un répertoire
-# Créer un répertoire dans un répertoire
-# Renommer un fichier
-# Changer le propriétaire d'un fichier
-# Changer le groupe d'un fichier
-# Changer le propriétaire et le groupe en même temps
-# Changer les permissions d'un fichier
-# Pour ouvrir un programme nano
-# créer un fichier
-# Créer un liens symbolique
+Pour créer un répertoire et son répertoire parent
+Créer un répertoire
+Créer un répertoire dans un répertoire
+Renommer un fichier
+Changer le propriétaire d'un fichier
+Changer le groupe d'un fichier
+Changer le propriétaire et le groupe en même temps
+Changer les permissions d'un fichier
+Pour ouvrir un programme nano
+créer un fichier
+Créer un liens symbolique
 Dossiers
-# Supprimer un répertoire
-# Copier un dossier
-# Liste tous les fichiers situés dans le dossiers
-# Revenir au fichier/dossier précédent
-#  Suppression de répertoire
+Supprimer un répertoire
+Copier un dossier
+Liste tous les fichiers situés dans le dossiers
+Revenir au fichier/dossier précédent
+Suppression de répertoire
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Exercice pratique Linux
+# Exercice pratique Linux
 
 Résumé
 Vous aurez besoin de précéder votre commande d'un “sudo” uniquement lorsque ce sera signalé dans une étape spécifique. Si vous devez l'utiliser ailleurs c'est probablement que c'est incorrect !
