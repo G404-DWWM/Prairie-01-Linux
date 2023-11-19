@@ -1,4 +1,4 @@
-# Prairie - Découverte de Linux
+# Prairie - Découverte de Linux :penguin:
 ## Atelier Learning By Teaching
 
 ### Instructions :	
@@ -109,7 +109,7 @@ Propriété de fichiers
 * Suppression de répertoire
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Exercice pratique Linux
+# Exercice pratique
 
 ## Résumé  
 Vous aurez besoin de précéder votre commande d'un “sudo” uniquement lorsque ce sera signalé dans une étape spécifique. 
