@@ -1,4 +1,4 @@
-# Prairie-01-Linux
+# Prairie - Découverte de Linux
 ## Atelier Learning By Teaching
 
 ### Instructions :	
